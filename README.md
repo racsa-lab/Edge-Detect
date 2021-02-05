@@ -49,3 +49,4 @@ Following 3 options are available for any clarification, comments or suggestions
 - Join the [discussion forum](https://github.com/racsa-lab/Edge-Detect/discussions).
 - Create an [issue](https://github.com/racsa-lab/Edge-Detect/issues).
 - Contact the authors.
+This
